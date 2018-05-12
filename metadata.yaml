@@ -1,0 +1,41 @@
+_repo: Glory-of-Youth_22292
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Corson, C. S. (Charles Schell)
+    alias: Corson, Charles Schell
+    birthdate: 1882
+    deathdate: 1921
+    gutenberg_agent_id: '25238'
+    url: http://www.gutenberg.org/2009/agents/25238
+  - agent_name: Hutt, Henry
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '8076'
+    url: http://www.gutenberg.org/2009/agents/8076
+covers:
+- cover_type: archival
+  image_path: 22292-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Bailey, Temple
+    deathdate: 1953
+    gutenberg_agent_id: '6704'
+    url: http://www.gutenberg.org/2009/agents/6704
+    wikipedia: http://en.wikipedia.org/wiki/Temple_Bailey
+description: ''
+gutenberg_issued: '2007-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+title: Glory of Youth
+url: http://www.gutenberg.org/ebooks/22292
